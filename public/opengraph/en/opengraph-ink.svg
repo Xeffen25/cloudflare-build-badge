@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="opengraph-ink.svg"
+   inkscape:export-filename="opengraph.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.32886077"
+     inkscape:cx="246.30484"
+     inkscape:cy="571.6705"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="r">
+      <rect
+         width="183"
+         height="20"
+         rx="3"
+         id="rect2"
+         x="0"
+         y="0" />
+    </clipPath>
+    <linearGradient
+       id="s"
+       x2="0"
+       y2="60.497934"
+       gradientTransform="scale(3.0248967,0.3305898)"
+       x1="0"
+       y1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#bbb"
+         stop-opacity=".1"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-opacity=".1"
+         id="stop2" />
+    </linearGradient>
+    <filter
+       id="blur"
+       x="-0.098429498"
+       y="-0.44767576"
+       width="1.196859"
+       height="1.8953515">
+      <feGaussianBlur
+         stdDeviation="16"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       id="filter2"
+       x="-0.098429501"
+       y="-0.44767576"
+       width="1.196859"
+       height="1.8953515">
+      <feGaussianBlur
+         stdDeviation="16"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:3.52016"
+       id="rect1"
+       width="1200"
+       height="630"
+       x="0"
+       y="0" />
+    <g
+       id="g3"
+       inkscape:label="cloudflare"
+       transform="matrix(2.5403226,0,0,2.5403226,437.41935,34.644919)">
+      <path
+         fill="#ffffff"
+         d="m 115.679,69.288 -15.591,-8.94 -2.689,-1.163 -63.781,0.436 v 32.381 h 82.061 z"
+         id="path1" />
+      <path
+         fill="#f38020"
+         d="m 87.295,89.022 c 0.763,-2.617 0.472,-5.015 -0.8,-6.796 -1.163,-1.635 -3.125,-2.58 -5.488,-2.689 L 36.27,78.956 c -0.291,0 -0.545,-0.145 -0.691,-0.363 -0.146,-0.218 -0.182,-0.509 -0.109,-0.8 0.145,-0.436 0.581,-0.763 1.054,-0.8 l 45.137,-0.581 c 5.342,-0.254 11.157,-4.579 13.192,-9.885 l 2.58,-6.723 c 0.109,-0.291 0.145,-0.581 0.073,-0.872 C 94.6,45.774 82.862,35.962 68.834,35.962 c -12.938,0 -23.913,8.359 -27.838,19.952 a 13.35,13.35 0 0 0 -9.267,-2.58 c -6.215,0.618 -11.193,5.597 -11.811,11.811 -0.145,1.599 -0.036,3.162 0.327,4.615 C 10.104,70.051 2,78.337 2,88.549 c 0,0.909 0.073,1.817 0.182,2.726 a 0.895,0.895 0 0 0 0.872,0.763 h 82.57 c 0.472,0 0.909,-0.327 1.054,-0.8 z"
+         id="path2" />
+      <path
+         fill="#faae40"
+         d="m 101.542,60.275 c -0.4,0 -0.836,0 -1.236,0.036 -0.291,0 -0.545,0.218 -0.654,0.509 l -1.744,6.069 c -0.763,2.617 -0.472,5.015 0.8,6.796 1.163,1.635 3.125,2.58 5.488,2.689 l 9.522,0.581 c 0.291,0 0.545,0.145 0.691,0.363 0.145,0.218 0.182,0.545 0.109,0.8 -0.145,0.436 -0.581,0.763 -1.054,0.8 L 103.54,79.5 c -5.379,0.254 -11.157,4.579 -13.192,9.885 l -0.727,1.853 c -0.145,0.363 0.109,0.727 0.509,0.727 h 34.089 c 0.4,0 0.763,-0.254 0.872,-0.654 C 125.672,89.203 126,86.986 126,84.697 126,71.25 115.025,60.275 101.542,60.275"
+         id="path3" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+       x="270.29688"
+       y="364.89606"
+       id="text1"
+       inkscape:label="title"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="270.29688"
+         y="364.89606">Cloudflare Build Badge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d9d9d9;fill-opacity:1"
+       x="170.8125"
+       y="449.13525"
+       id="text2"
+       inkscape:label="subheading"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="170.8125"
+         y="449.13525">Live status badges for Cloudflare Builds</tspan></text>
+    <g
+       id="g12"
+       inkscape:label="badge"
+       transform="matrix(2.7540983,0,0,2.7540983,348,504)">
+      <g
+         clip-path="url(#r)"
+         id="g5"
+         inkscape:label="backgroud">
+        <rect
+           width="132"
+           height="20"
+           fill="#555555"
+           id="rect3"
+           x="0"
+           y="0" />
+        <rect
+           x="132"
+           width="51"
+           height="20"
+           fill="#44bb00"
+           id="rect4"
+           y="0" />
+        <rect
+           width="183"
+           height="20"
+           fill="url(#s)"
+           id="rect5"
+           x="0"
+           y="0"
+           style="fill:url(#s)" />
+      </g>
+      <g
+         fill="#ffffff"
+         text-anchor="middle"
+         font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+         text-rendering="geometricPrecision"
+         font-size="110px"
+         id="g11"
+         inkscape:label="text">
+        <g
+           transform="scale(0.1)"
+           id="g7">
+          <g
+             aria-hidden="true"
+             fill="#010101"
+             id="g6">
+            <text
+               x="755"
+               y="150"
+               fill-opacity="0.8"
+               filter="url(#blur)"
+               textLength="1050"
+               id="text5"
+               lengthAdjust="spacing">Cloudflare Workers</text>
+            <text
+               x="755"
+               y="150"
+               fill-opacity="0.3"
+               textLength="1050"
+               id="text6"
+               lengthAdjust="spacing">Cloudflare Workers</text>
+          </g>
+          <text
+             x="755"
+             y="140"
+             textLength="1050"
+             id="text7"
+             lengthAdjust="spacing">Cloudflare Workers</text>
+        </g>
+        <g
+           transform="scale(0.1)"
+           id="g10">
+          <g
+             aria-hidden="true"
+             fill="#010101"
+             id="g9">
+            <text
+               x="1565"
+               y="150"
+               fill-opacity="0.8"
+               filter="url(#blur)"
+               textLength="410"
+               id="text8"
+               lengthAdjust="spacing">passing</text>
+            <text
+               x="1565"
+               y="150"
+               fill-opacity="0.3"
+               textLength="410"
+               id="text9"
+               lengthAdjust="spacing">passing</text>
+          </g>
+          <text
+             x="1565"
+             y="140"
+             textLength="410"
+             id="text10"
+             lengthAdjust="spacing">passing</text>
+        </g>
+      </g>
+      <path
+         d="M 9.8367363,3.1378299 15.016151,10.217161 9.9586528,17.06491 h 1.4443322 l 5.054582,-6.845415 -5.185831,-7.0816651 z m 2.7579987,0 5.261665,6.9953311 -5.260498,6.931749 h 1.455999 l 4.993916,-6.581165 V 9.7843288 L 14.048985,3.1378299 Z M 9.2329865,4.279413 5.051654,9.7499115 l -0.00584,0.6999995 4.2017491,5.625666 0.7221663,-0.977666 -3.7309961,-4.991 3.7105823,-4.8492482 z"
+         id="path1-8"
+         style="fill:#f38020;fill-opacity:1;stroke-width:0.583333"
+         inkscape:label="logo" />
+    </g>
+  </g>
+</svg>
